@@ -41,6 +41,104 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Cher",
+      "image": "https://images.ctfassets.net/3s5io6mnxfqz/5tLsXz34SC30SPULKn2BYD/330480927259460540faa9e0dd6bfb0c/AdobeStock_418544358.jpeg?fm=jpg&w=900&fl=progressive",
+      "price": "5.50",
+      "inStock": true,
+      "id": 8
+    },
+    {
+      "name": "Cher",
+      "image": "https://images.ctfassets.net/3s5io6mnxfqz/5tLsXz34SC30SPULKn2BYD/330480927259460540faa9e0dd6bfb0c/AdobeStock_418544358.jpeg?fm=jpg&w=900&fl=progressive",
+      "price": "5.50",
+      "inStock": true,
+      "id": 9
+    },
+    {
+      "name": "Cher",
+      "image": "https://images.ctfassets.net/3s5io6mnxfqz/5tLsXz34SC30SPULKn2BYD/330480927259460540faa9e0dd6bfb0c/AdobeStock_418544358.jpeg?fm=jpg&w=900&fl=progressive",
+      "price": "5.50",
+      "inStock": true,
+      "id": 10
+    },
+    {
+      "name": "Philodendron",
+      "image": "https://www.nochicares.com/content/images/2021/09/glorio.jpg",
+      "price": "125.00",
+      "inStock": true,
+      "id": 11
+    },
+    {
+      "name": "Fern",
+      "image": "https://i.etsystatic.com/17396721/r/il/f793b3/1496302478/il_794xN.1496302478_f4ma.jpg",
+      "price": "5.50",
+      "inStock": true,
+      "id": 12
+    },
+    {
+      "name": "Fern",
+      "image": "https://i.etsystatic.com/17396721/r/il/f793b3/1496302478/il_794xN.1496302478_f4ma.jpg",
+      "price": "5.50",
+      "inStock": true,
+      "id": 13
+    },
+    {
+      "name": "Fern",
+      "image": "https://i.etsystatic.com/17396721/r/il/f793b3/1496302478/il_794xN.1496302478_f4ma.jpg",
+      "price": "5.50",
+      "inStock": true,
+      "id": 14
+    },
+    {
+      "name": "Begonia",
+      "image": "https://images.dwell.com/photos/6063391372700811264/6587028212058558464/large.jpg",
+      "price": "25.00",
+      "inStock": true,
+      "id": 15
+    },
+    {
+      "name": "Begonia",
+      "image": "https://images.dwell.com/photos/6063391372700811264/6587028212058558464/large.jpg",
+      "price": "25.00",
+      "inStock": true,
+      "id": 16
+    },
+    {
+      "name": "Terrarium",
+      "image": "https://static01.nyt.com/images/2021/11/28/realestate/22garden-terrariums01/oakImage-1637602900312-mobileMasterAt3x.jpg",
+      "price": "75.00",
+      "inStock": true,
+      "id": 17
+    },
+    {
+      "name": "Terrarium",
+      "image": "https://static01.nyt.com/images/2021/11/28/realestate/22garden-terrariums01/oakImage-1637602900312-mobileMasterAt3x.jpg",
+      "price": "85.00",
+      "inStock": true,
+      "id": 18
+    },
+    {
+      "name": "Alocasia",
+      "image": "https://cdn.shopify.com/s/files/1/0552/7535/6211/products/4_ALOCASIA_SILVER_DRAGON_1_720x.jpg?v=1646939807",
+      "price": "55.2",
+      "inStock": true,
+      "id": 19
+    },
+    {
+      "name": "Waffles",
+      "image": "https://i.ebayimg.com/images/g/c6gAAOSwZ8ZfE~3j/s-l640.jpg",
+      "price": "05",
+      "inStock": true,
+      "id": 20
+    },
+    {
+      "name": "Waffles",
+      "image": "https://i.etsystatic.com/11134191/r/il/144fcf/2171032310/il_1140xN.2171032310_b9dn.jpg",
+      "price": "5.00",
+      "inStock": true,
+      "id": 21
     }
   ]
 }
